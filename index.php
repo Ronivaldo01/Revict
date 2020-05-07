@@ -348,7 +348,7 @@
                                     <label for="datavencimento" class="control-label">Data de Vencimento</label>
                                     <div class="input-group">
 
-                                        <p><input type="text" id="datavencimento" placeholder="nesse formato 03/04/1988"></p>
+                                        <p><input type="text" id="datavencimento" placeholder="03/04/1988"></p>
                                     </div>
                                 </div>
                             </div>
